@@ -1,0 +1,22 @@
+---
+import AppLayout from "../layouts/AppLayout.astro";
+import Hero from "../components/Hero.vue";
+import Services from "../components/Services.vue";
+import Footer from "../components/Footer.vue";
+import Portfolio from "../components/Portfolio.vue";
+import About from "../components/About.vue";
+import ToTopButton from "../components/ToTopButton.vue";
+import SocialLinks from "../components/SocialLinks.vue";
+---
+
+<AppLayout
+	title="Banner.kg - Производство наружной рекламы любой сложности, от визиток до объемных букв"
+>
+	<Hero />
+	<About />
+	<Services client:load />
+	<Portfolio client:only />
+	<Footer />
+	<ToTopButton client:only />
+	<SocialLinks client:load />
+</AppLayout>
