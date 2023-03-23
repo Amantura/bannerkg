@@ -6,14 +6,11 @@
       </span>
 
       <div  class="absolute space-y-3 flex flex-col py-3 top-0 bg-blue-400 whitespace-nowrap group-hover:right-16 flex-center rounded-l-lg px-4 invisible group-hover:visible -z-10 duration-200 transition-all opacity-0 group-hover:opacity-100 right-0">
-        <a href="tel:+996 702 703 703" class="px-3 py-2">
-          +996 702 703 703
+        <a href="tel:+996 509 703 703" class="px-3 py-2">
+          +996 509 703 703
         </a>
-        <a href="tel:+996 999 703 703"  class="px-3 py-2">
-          +996 999 703 703
-        </a>
-        <a href="tel:+996 222 703 703" class="px-3 py-2">
-          +996 222 703 703
+        <a href="tel:+996 990 703 703"  class="px-3 py-2">
+          +996 990 703 703
         </a>
       </div>
     </div>
