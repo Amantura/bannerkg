@@ -71,14 +71,14 @@ const links = [
     icon: Instagram
   },
   {
-    title: '+996 702 703 703',
-    to: 'https://wa.me/+996702703703',
+    title: '+996 509 703 703',
+    to: 'https://wa.me/+996509703703',
     class: 'bg-green-500',
     icon: Whatsapp
   },
   {
-    title: '@lazerkg',
-    to: 'https://t.me/lazerkg',
+    title: '+996 509 703 703',
+    to: 'https://t.me/+996509703703',
     class: 'bg-blue-500',
     icon: Telegram
   },
@@ -89,8 +89,8 @@ const links = [
     icon: Mail
   },
   {
-    title: '@lazer-kg',
-    to: 'https://lalafo.kg/lazer-kg',
+    title: '@banner-kg',
+    to: 'https://lalafo.kg/user/12073882',
     class: 'bg-green-500',
     icon: Lalafo
   },
